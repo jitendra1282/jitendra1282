@@ -31,7 +31,7 @@
 * [🔗 View Repository](https://github.com/jitendra1282/dbms-project) 
 
 ## 🏆 Achievements & Extras
-* Software Engineering Intern at Google (Summer 2026).
+* Incoming Software Engineering Intern at Google (Summer 2027).
 * Advanced to Round 1 of Google India's The Big Code 2026 and Round 2 of HackVega 2.0.
 
 ## 🔗 Connect with Me

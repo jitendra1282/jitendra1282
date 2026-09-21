@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Nandipati Jitendra Krishna Sri Sai 👋
 
-<!--
-**jitendra1282/jitendra1282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-stack developer & algorithmic problem solver**  
+*(Open to upcoming software engineering opportunities)*
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+* 🎓 B.Tech in Computer Science and Engineering at **IIT (ISM) Dhanbad** (2024–2028).
+* 🛠️ Currently building and exploring low-level OS programming, compiler design, and digital image processing.
+* 🌱 Learning more about 3D computer graphics, rendering pipelines, and ML algorithms.
+* 💬 Ask me about C++, competitive programming, real-time web architectures, or system calls. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+* **Languages:** C++, C, Java, Python, JavaScript, TypeScript
+* **Frontend:** React, Tailwind CSS, Streamlit
+* **Backend:** Node.js, Express, FastAPI, Socket.io
+* **Databases & Tools:** PostgreSQL, MongoDB, Prisma
+
+## 🚀 Featured Projects
+
+### 📈 TempoMatch 
+*Real-time currency order matching engine.*
+* Engineered with heap data structures for high-speed order book matching and automated liquidity bots.
+* Implemented **ACID-compliant settlements**, rigorous self-trade blocking, and tested extensively using concurrent multi-account simulations.
+* **Tech:** Node.js, Express, PostgreSQL, Prisma, Socket.io, React, TypeScript.
+* [🔗 View Repository](#)
+
+### 🫀 Cardiac ICU Monitoring Database System
+*Clinical risk scoring engine and monitoring dashboard.*
+* Developed document schemas and a real-time dashboard for critical care metrics. 
+* **Tech:** FastAPI, MongoDB, Streamlit.
+* [🔗 View Repository](#) 
+
+## 🏆 Achievements & Extras
+* Software Engineering Intern at Google (Summer 2026).
+* Advanced to Round 1 of Google India's The Big Code 2026 and Round 2 of HackVega 2.0.
+
+## 📊 GitHub Stats
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=jitendra1282&show_icons=true&theme=radical&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitendra1282&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+## 🔗 Connect with Me
+<p align="left">
+<a href="YOUR_LINKEDIN_URL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+</p>
